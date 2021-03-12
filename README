@@ -1,0 +1,11 @@
+```
+
+20:09:19 **** Clean-only build of configuration SAM4E_RTOS for project RRFLibraries ****
+make -j3 clean 
+
+rm -rf  ./src/RTOSIface/RTOSIface.o  ./src/Math/Isqrt.o  ./src/General/IP4String.o ./src/General/IPAddress.o ./src/General/SafeStrtod.o ./src/General/SafeVsnprintf.o ./src/General/StringFunctions.o ./src/General/StringRef.o ./src/General/Strnlen.o  ./src/RTOSIface/RTOSIface.d  ./src/Math/Isqrt.d  ./src/General/IP4String.d ./src/General/IPAddress.d ./src/General/SafeStrtod.d ./src/General/SafeVsnprintf.d ./src/General/StringFunctions.d ./src/General/StringRef.d ./src/General/Strnlen.d  libRRFLibraries.a
+ 
+
+20:09:20 Build Finished. 0 errors, 0 warnings. (took 259ms)
+
+```
